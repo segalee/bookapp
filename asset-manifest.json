@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bookapp/static/css/main.acba9175.css",
+    "main.js": "/bookapp/static/js/main.a377112f.js",
+    "static/media/Livvic-MediumItalic.ttf": "/bookapp/static/media/Livvic-MediumItalic.c388d554d36321255ab9.ttf",
+    "static/media/Livvic-Bold.ttf": "/bookapp/static/media/Livvic-Bold.089af19ac41ce144a96c.ttf",
+    "static/media/Livvic-SemiBold.ttf": "/bookapp/static/media/Livvic-SemiBold.c79c53d29c413ab69adb.ttf",
+    "static/media/reader.svg": "/bookapp/static/media/reader.27e5bb6fa2b3962c16971cea96f0c9ef.svg",
+    "index.html": "/bookapp/index.html",
+    "main.acba9175.css.map": "/bookapp/static/css/main.acba9175.css.map",
+    "main.a377112f.js.map": "/bookapp/static/js/main.a377112f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acba9175.css",
+    "static/js/main.a377112f.js"
+  ]
+}
