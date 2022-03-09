@@ -1,0 +1,18 @@
+nav {
+  display: flex;
+  width: 100vw;
+  justify-content: space-around;
+  height: 80px;
+  position: absolute;
+  background-color: rgb(241, 241, 241);
+  align-items: center;
+  a {
+    text-decoration: none;
+    font-size: 22px;
+    color: #516862;
+    &.active {
+      color: #188b6e;
+      box-shadow: 0px 4px 0px 0px #188b6e;
+    }
+  }
+}

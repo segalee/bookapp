@@ -1,0 +1,22 @@
+// Colors
+$clr1: #014e56;
+$clr2: #002529;
+$clr3: #79c8c7;
+$clr4: #2c6269;
+$clr5: #f67e7e;
+$clr6: #012f34;
+$clr7: #fff;
+$clr8: #c4fffe;
+$clr9: #004047;
+
+// LAYOUT
+$layoutPadding: 20px;
+
+// Breakpoints
+$break-narrow: 460px;
+$break-normal: 720px;
+$break-wide: 960px;
+
+$padded-break-narrow: $break-narrow + $layoutPadding * 2;
+$padded-break-normal: $break-normal + $layoutPadding * 2;
+$padded-break-wide: $break-wide + $layoutPadding * 2;

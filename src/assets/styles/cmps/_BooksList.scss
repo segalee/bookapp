@@ -1,0 +1,16 @@
+.books-list {
+  button {
+    height: fit-content;
+    background-color: #f5f5dc00;
+    border: none;
+    color: #4e5459;
+    cursor: pointer;
+  }
+  .prev-book {
+    margin-right: 15px;
+    margin-left: 100px;
+  }
+  .next-book {
+    margin-left: 15px;
+  }
+}

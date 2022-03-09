@@ -1,0 +1,35 @@
+.book-preview {
+  max-width: 325px;
+  /* height: 350px; */
+  background-color: #fffefd;
+  box-shadow: 0 0 6px 1px #afa9a9;
+  margin: 50px 0 50px 0;
+  padding: 30px;
+  h1,
+  h2 {
+    margin: 0;
+    line-height: initial;
+  }
+  .header {
+    margin-bottom: 10px;
+    border-bottom: 1px solid #b7b7b7;
+  }
+  .details {
+    p.book-desc {
+      max-height: 125px;
+      overflow-y: auto;
+      color: #5b5858;
+      font-family: system-ui;
+      line-height: 1.5;
+      font-size: 16px;
+      margin: 0;
+    }
+  }
+  .book-info {
+    height: 25px;
+    margin-top: 5px;
+    p {
+      margin-right: 10px;
+    }
+  }
+}

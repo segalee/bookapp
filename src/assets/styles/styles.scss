@@ -1,0 +1,22 @@
+// Setup
+@import 'setup/variables.scss';
+@import 'setup/functions.scss';
+@import 'setup/mixins.scss';
+@import 'setup/typography.scss';
+
+// Basics
+@import 'basics/helpers.scss';
+@import 'basics/layout.scss';
+@import 'basics/base.scss';
+@import 'basics/buttons.scss';
+
+// Components
+@import 'cmps/AppHeader.scss';
+@import 'cmps/BookPreview.scss';
+@import 'cmps/BooksList.scss';
+@import 'cmps/WishlistControllers.scss';
+@import 'cmps/Wishlist.scss';
+
+//Pages
+@import 'pages/HomePage.scss';
+@import 'pages/Books.scss';

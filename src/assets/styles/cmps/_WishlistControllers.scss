@@ -1,0 +1,23 @@
+.wishlist-controllers {
+  margin: 50px 80px 0 0;
+  button {
+    font-family: system-ui;
+    border: none;
+    background-color: #ebeaea;
+    color: #327968;
+    padding: 5px;
+    width: 70px;
+    height: 35px;
+    box-shadow: 0 0 3px #909090;
+    font-size: 14px;
+    cursor: pointer;
+    &.clicked {
+      background-color: #327968;
+      color: #ebeaea;
+      &::after {
+        content: ' 	▼';
+        // font-size: 14px;
+      }
+    }
+  }
+}
